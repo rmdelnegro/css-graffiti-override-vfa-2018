@@ -8,7 +8,7 @@
   display: none;
 }
 
-.parent #tag-4{
+#tag-3 + .parent #tag-4{
   display: none;
 }
 
